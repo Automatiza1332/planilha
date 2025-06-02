@@ -1,0 +1,111 @@
+ID,Categoria,Produto/Modelo,Marca,Cor,Capacidade,Compatibilidade,Preço de Venda (R$),Estoque Atual,Código de Barras,Fornecedor,Observações,
+1,Celular,Galaxy S23 Ultra,Samsung,Preto,256GB,,5999,5,7891234560011,Samsung Brasil,5G," tela 6.8""",
+2,Celular,iPhone 15 Pro Max,Apple,Prata,256GB,,9499,3,7891234560012,Apple Brasil,A17 Pro, 5G,
+3,Celular,Redmi Note 13,Xiaomi,Azul,128GB,,1899,8,7891234560013,Xiaomi Oficial,Dual SIM,
+4,Celular,Moto G84,Motorola,Preto,256GB,,1799,7,7891234560014,Motorola,Tela OLED,
+5,Celular,Galaxy A55,Samsung,Azul,128GB,,2299,10,7891234560015,Samsung Brasil,5G,
+6,Celular,Galaxy S23 Ultra,Samsung,Verde,512GB,,6499,2,7891234560016,Samsung Brasil,5G," tela 6.8""",
+7,Celular,iPhone 14,Apple,Preto,128GB,,4999,4,7891234560017,Apple Brasil,"A15, 5G",
+8,Celular,Redmi Note 12,Xiaomi,Preto,128GB,,1599,6,7891234560018,Xiaomi Oficial,Dual SIM,
+9,Celular,Moto G54,Motorola,Azul,128GB,,1299,9,7891234560019,Motorola,"Tela 6.5\""
+10,Celular,Galaxy A34,Samsung,Branco,128GB,,1799,5,7891234560020,Samsung Brasil,5G
+11,Celular,Galaxy S22,Samsung,Preto,256GB,,4999,4,7891234560021,Samsung Brasil,5G
+12,Celular,iPhone 13,Apple,Verde,128GB,,3999,6,7891234560022,Apple Brasil,"," 5G""",
+13,Celular,Redmi 12C,Xiaomi,Verde,64GB,,999,12,7891234560023,Xiaomi Oficial,Dual SIM,
+14,Celular,Moto E22,Motorola,Azul,64GB,,899,10,7891234560024,Motorola,Básico,
+15,Celular,Galaxy M54,Samsung,Azul,128GB,,2199,8,7891234560025,Samsung Brasil,5G,
+16,Celular,Galaxy A15,Samsung,Preto,128GB,,1299,10,7891234560026,Samsung Brasil,4G,
+17,Celular,iPhone SE,Apple,Vermelho,128GB,,2599,5,7891234560027,Apple Brasil,A13,
+18,Celular,Redmi Note 11,Xiaomi,Azul,128GB,,1499,7,7891234560028,Xiaomi Oficial,Dual SIM,
+19,Celular,Moto G32,Motorola,Preto,128GB,,1099,8,7891234560029,Motorola,"Tela 6.5\""
+20,Celular,Galaxy M14,Samsung,Azul,128GB,,1379,9,7891234560030,Samsung Brasil,4G
+21,Capinha,Capinha Silicone Galaxy S23 Ultra,Genérica,Preto,,Galaxy S23 Ultra,69,20,7891234560101,Capinhas Express,Antichoque
+22,Capinha,Capinha Transparente iPhone 15 Pro Max,Genérica,Transparente,,iPhone 15 Pro Max,79,30,7891234560102,Capinhas Express,Ultra fina
+23,Capinha,Capinha Antishock Redmi Note 13,Genérica,Azul,,Redmi Note 13,59,15,7891234560103,Capinhas Express,Reforçada
+24,Capinha,Capinha Couro Moto G84,Genérica,Marrom,,Moto G84,99,10,7891234560104,Capinhas Express,Premium
+25,Capinha,Capinha Glitter Galaxy A55,Genérica,Rosa,,Galaxy A55,49,12,7891234560105,Capinhas Express,Glitter
+26,Capinha,Capinha Silicone Galaxy S23 Ultra,Genérica,Azul,,Galaxy S23 Ultra,69,10,7891234560111,Capinhas Express,Antichoque
+27,Capinha,Capinha Silicone Galaxy S23 Ultra,Genérica,Rosa,,Galaxy S23 Ultra,69,7,7891234560112,Capinhas Express,Antichoque
+28,Capinha,Capinha Silicone Galaxy S23 Ultra,Genérica,Verde,,Galaxy S23 Ultra,69,7,7891234560113,Capinhas Express,Antichoque
+29,Capinha,Capinha Silicone iPhone 15 Pro Max,Genérica,Azul,,iPhone 15 Pro Max,89,15,7891234560121,Capinhas Express,Antichoque
+30,Capinha,Capinha Silicone iPhone 15 Pro Max,Genérica,Preto,,iPhone 15 Pro Max,89,16,7891234560122,Capinhas Express,Antichoque
+31,Capinha,Capinha Silicone iPhone 15 Pro Max,Genérica,Rosa,,iPhone 15 Pro Max,89,10,7891234560123,Capinhas Express,Antichoque
+32,Capinha,Capinha Silicone Redmi Note 13,Genérica,Preto,,Redmi Note 13,59,10,7891234560131,Capinhas Express,Antichoque
+33,Capinha,Capinha Silicone Redmi Note 13,Genérica,Rosa,,Redmi Note 13,59,12,7891234560132,Capinhas Express,Antichoque
+34,Capinha,Capinha Silicone Moto G84,Genérica,Preto,,Moto G84,49,11,7891234560141,Capinhas Express,Antichoque
+35,Capinha,Capinha Silicone Moto G84,Genérica,Azul,,Moto G84,49,13,7891234560142,Capinhas Express,Antichoque
+36,Capinha,Capinha Silicone Galaxy A55,Genérica,Preto,,Galaxy A55,45,14,7891234560151,Capinhas Express,Antichoque
+37,Capinha,Capinha Silicone Galaxy A55,Genérica,Verde,,Galaxy A55,45,14,7891234560152,Capinhas Express,Antichoque
+38,Película,Película Vidro Galaxy S23 Ultra,Genérica,Transparente,,Galaxy S23 Ultra,39,25,7891234560201,Películas BR,3D
+39,Película,Película Vidro iPhone 15 Pro Max,Genérica,Transparente,,iPhone 15 Pro Max,49,20,7891234560202,Películas BR,3D
+40,Película,Película Vidro Redmi Note 13,Genérica,Transparente,,Redmi Note 13,35,18,7891234560203,Películas BR,3D
+41,Película,Película Vidro Moto G84,Genérica,Transparente,,Moto G84,29,20,7891234560204,Películas BR,3D
+42,Película,Película Vidro Galaxy A55,Genérica,Transparente,,Galaxy A55,32,22,7891234560205,Películas BR,3D
+43,Película,Película Vidro Galaxy S22,Genérica,Transparente,,Galaxy S22,37,15,7891234560206,Películas BR,3D
+44,Película,Película Vidro Redmi 12C,Genérica,Transparente,,Redmi 12C,25,18,7891234560207,Películas BR,3D
+45,Película,Película Vidro Moto G54,Genérica,Transparente,,Moto G54,28,20,7891234560208,Películas BR,3D
+46,Película,Película Vidro Galaxy A34,Genérica,Transparente,,Galaxy A34,31,20,7891234560209,Películas BR,3D
+47,Película,Película Vidro iPhone 14,Genérica,Transparente,,iPhone 14,46,11,7891234560210,Películas BR,3D
+48,Película,Película Vidro Redmi Note 12,Genérica,Transparente,,Redmi Note 12,33,15,7891234560211,Películas BR,3D
+49,Película,Película Vidro Moto G32,Genérica,Transparente,,Moto G32,26,13,7891234560212,Películas BR,3D
+50,Película,Película Vidro Galaxy M54,Genérica,Transparente,,Galaxy M54,30,14,7891234560213,Películas BR,3D
+51,Acessório,Carregador Samsung Fast,Samsung,Branco,25W,,119,15,7891234560301,Samsung Brasil,USB-C
+52,Acessório,Carregador iPhone 20W,Apple,Branco,20W,,199,12,7891234560302,Apple Brasil,USB-C
+53,Acessório,Carregador Xiaomi 33W,Xiaomi,Branco,33W,,139,17,7891234560303,Xiaomi Oficial,USB-C
+54,Acessório,Carregador Turbo Moto,Motorola,Preto,20W,,99,15,7891234560304,Motorola,USB-C
+55,Acessório,Carregador Veicular Universal,Genérico,Preto,24W,,49,25,7891234560305,Genérico,USB
+56,Acessório,Fone de Ouvido Bluetooth Baseus,Baseus,Preto,,,",9,7891234560311,Baseus Brasil,TWS,
+57,Acessório,Fone de Ouvido Bluetooth Samsung Buds2,Samsung,Preto,,,399,7,7891234560312,Samsung Brasil,TWS,
+58,Acessório,Fone de Ouvido Bluetooth Apple AirPods 2,Apple,Branco,,,899,5,7891234560313,Apple Brasil,TWS,
+59,Acessório,Fone de Ouvido Bluetooth Xiaomi Redmi Buds 4,Xiaomi,Branco,,,229,8,7891234560314,Xiaomi Oficial,TWS,
+60,Acessório,Fone de Ouvido Bluetooth Motorola Moto Buds 250,Motorola,Preto,,,199,12,7891234560315,Motorola,TWS,
+61,Acessório,Fone de Ouvido com Fio Samsung EO-IA500,Samsung,Branco,,,59,14,7891234560321,Samsung Brasil,In-ear,
+62,Acessório,Fone de Ouvido com Fio Apple EarPods,Apple,Branco,,,139,10,7891234560322,Apple Brasil,Lightning,
+63,Acessório,Fone de Ouvido com Fio Xiaomi Mi Basic,Xiaomi,Preto,,,49,20,7891234560323,Xiaomi Oficial,In-ear,
+64,Acessório,Fone de Ouvido com Fio Motorola Earbuds 3,Motorola,Azul,,,39,18,7891234560324,Motorola,In-ear,
+65,Acessório,Cabo USB-C 1m Samsung,Samsung,Branco,1m,,39,18,7891234560331,Samsung Brasil,Original,
+66,Acessório,Cabo Lightning 1m Apple,Apple,Branco,1m,,99,10,7891234560332,Apple Brasil,Original,
+67,Acessório,Cabo USB-C 1m Xiaomi,Xiaomi,Branco,1m,,29,17,7891234560333,Xiaomi Oficial,Original,
+68,Acessório,Cabo USB-C 1m Motorola,Motorola,Preto,1m,,29,15,7891234560334,Motorola,Original,
+69,Acessório,Cabo Micro USB 1m Genérico,Genérico,Preto,1m,,19,22,7891234560335,Genérico,Compatível,
+70,Acessório,Powerbank Baseus 20.000mAh,Baseus,Preto,20000mAh,,179,7,7891234560341,Baseus Brasil,USB-C,
+71,Acessório,Powerbank Xiaomi 10.000mAh,Xiaomi,Preto,10000mAh,,139,10,7891234560342,Xiaomi Oficial,USB-C,
+72,Acessório,Powerbank Samsung 10.000mAh,Samsung,Preto,10000mAh,,169,8,7891234560343,Samsung Brasil,USB-C,
+73,Acessório,Adaptador USB-C para P2 Baseus,Baseus,Prateado,,,49,14,7891234560351,Baseus Brasil,Conversor,
+74,Acessório,Adaptador Lightning para P2 Apple,Apple,Branco,,,99,5,7891234560352,Apple Brasil,Conversor,
+75,Acessório,Cartão Micro SD 64GB Sandisk,Sandisk,Vermelho,64GB,,59,15,7891234560361,Sandisk Brasil,Classe 10,
+76,Acessório,Cartão Micro SD 128GB Sandisk,Sandisk,Vermelho,128GB,,99,12,7891234560362,Sandisk Brasil,Classe 10,
+77,Acessório,Cartão Micro SD 32GB Kingston,Kingston,Preto,32GB,,39,20,7891234560363,Kingston Brasil,Classe 10,
+78,Acessório,Cartão Micro SD 128GB Kingston,Kingston,Preto,128GB,,99,8,7891234560364,Kingston Brasil,Classe 10,
+79,Eletrônico,Caixa de Som Bluetooth JBL GO 3,JBL,Preto,,,249,5,7891234560401,JBL Brasil,Portátil,
+80,Eletrônico,Caixa de Som Bluetooth JBL Charge 5,JBL,Azul,,,899,3,7891234560402,JBL Brasil,Portátil,
+81,Eletrônico,Caixa de Som Bluetooth Pulse SP222,Pulse,Preto,,,169,6,7891234560403,Pulse,Portátil,
+82,Eletrônico,Caixa de Som Bluetooth Xiaomi Mi Compact,Xiaomi,Branco,,,139,7,7891234560404,Xiaomi Oficial,Portátil,
+83,Eletrônico,Smartwatch Galaxy Watch 6,Samsung,Preto,44mm,,1299,4,7891234560411,Samsung Brasil,AMOLED,
+84,Eletrônico,Smartwatch Amazfit Bip 3,Amazfit,Preto,45mm,,399,7,7891234560412,Amazfit Brasil,Resistente à água,
+85,Eletrônico,Smartwatch Amazfit GTS 4 Mini,Amazfit,Rosa,40mm,,699,6,7891234560413,Amazfit Brasil,Resistente à água,
+86,Eletrônico,Smartwatch Xiaomi Redmi Watch 3,Xiaomi,Preto,42mm,,499,8,7891234560414,Xiaomi Oficial,Resistente à água,
+87,Eletrônico,Smartband Xiaomi Mi Band 8,Xiaomi,Preto,,,349,10,7891234560421,Xiaomi Oficial,Monitor cardíaco,
+88,Eletrônico,Smartband Samsung Galaxy Fit 3,Samsung,Preto,,,299,7,7891234560422,Samsung Brasil,Monitor cardíaco,
+89,Eletrônico,Smartband Huawei Band 8,Huawei,Preto,,,249,8,7891234560423,Huawei Brasil,Monitor cardíaco,
+90,Eletrônico,Amazon Echo Dot 5ª Geração,Amazon,Preto,,,349,6,7891234560431,Amazon,Alexa,
+91,Eletrônico,Chromecast 4 com Google TV,Google,Branco,,,399,7,7891234560432,Google,Smart TV,
+92,Eletrônico,Fire TV Stick Lite,Amazon,Preto,,,299,8,7891234560433,Amazon,Smart TV,
+93,Eletrônico,Mouse Logitech M170,Logitech,Cinza,,,79,12,7891234560441,Logitech Brasil,Wireless,
+94,Eletrônico,Teclado Logitech K120,Logitech,Preto,,,99,9,7891234560442,Logitech Brasil,USB,
+95,Eletrônico,Pen Drive Sandisk 32GB,Sandisk,Vermelho,32GB,,39,20,7891234560451,Sandisk Brasil,USB 3.0,
+96,Eletrônico,Pen Drive Kingston 64GB,Kingston,Preto,64GB,,69,15,7891234560452,Kingston Brasil,USB 3.0,
+97,Eletrônico,Leitor de Cartão Micro SD Genérico,Genérico,Preto,,,19,14,7891234560453,Genérico,USB,
+98,Eletrônico,Estabilizador SMS 300VA,SMS,Preto,300VA,,199,6,7891234560461,SMS,Proteção,
+99,Eletrônico,Nobreak APC Easy 600VA,APC,Preto,600VA,,499,3,7891234560462,APC,Proteção,
+100,Eletrônico,Extensão Elétrica 5 tomadas,Genérico,Branco,5 tomadas,,39,15,7891234560471,Genérico,Proteção,
+101,Eletrônico,Tomada Inteligente Wi-Fi Positivo,Positivo,Branco,,,99,12,7891234560481,Positivo,Smart Home,
+102,Eletrônico,Lâmpada Inteligente Wi-Fi Positivo,Positivo,Branco,,,69,10,7891234560482,Positivo,Smart Home,
+103,Eletrônico,Repetidor Wi-Fi TP-Link TL-WA850RE,TP-Link,Branco,,,119,7,7891234560491,TP-Link,Wi-Fi,
+104,Eletrônico,Roteador Wireless TP-Link Archer C6,TP-Link,Preto,,,229,8,7891234560492,TP-Link,Wi-Fi,
+105,Eletrônico,Carregador Wireless Baseus 15W,Baseus,Preto,15W,,149,10,7891234560501,Baseus Brasil,Qi,
+106,Eletrônico,Hub USB 4 portas Genérico,Genérico,Preto,4 portas,,29,15,7891234560502,Genérico,USB,
+107,Eletrônico,Cooler Notebook Multilaser AC267,Multilaser,Preto,,,69,10,7891234560503,Multilaser,Refrigeração,
+108,Eletrônico,Suporte Veicular Magnético,Genérico,Preto,,,39,12,7891234560504,Genérico,Automotivo,
+109,Eletrônico,Suporte PopSocket Universal,Genérico,Preto,,,29,14,7891234560505,Genérico,Acessório,
+110,Eletrônico,Suporte de Mesa Ajustável,Genérico,Branco,,,39,13,7891234560506,Genérico,Acessório,
