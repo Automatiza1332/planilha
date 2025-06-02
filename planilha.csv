@@ -1,9 +1,9 @@
-ID,Categoria,Produto/Modelo,Marca,Cor,Capacidade,Compatibilidade,Preço de Venda (R$),Estoque Atual,Código de Barras,Fornecedor,Observações,
-1,Celular,Galaxy S23 Ultra,Samsung,Preto,256GB,,5999,5,7891234560011,Samsung Brasil,5G," tela 6.8""",
-2,Celular,iPhone 15 Pro Max,Apple,Prata,256GB,,9499,3,7891234560012,Apple Brasil,A17 Pro, 5G,
-3,Celular,Redmi Note 13,Xiaomi,Azul,128GB,,1899,8,7891234560013,Xiaomi Oficial,Dual SIM,
-4,Celular,Moto G84,Motorola,Preto,256GB,,1799,7,7891234560014,Motorola,Tela OLED,
-5,Celular,Galaxy A55,Samsung,Azul,128GB,,2299,10,7891234560015,Samsung Brasil,5G,
+ID,Categoria,Produto/Modelo,Marca,Cor,Capacidade,Compatibilidade,Preço de Venda (R$),Estoque Atual,Código de Barras,Fornecedor,Observações
+1,Celular,Galaxy S23 Ultra,Samsung,Preto,256GB,,5999,5,7891234560011,"Samsung Brasil","5G, tela 6.8"""
+2,Celular,iPhone 15 Pro Max,Apple,Prata,256GB,,9499,3,7891234560012,"Apple Brasil","A17 Pro, 5G"
+3,Celular,Redmi Note 13,Xiaomi,Azul,128GB,,1899,8,7891234560013,"Xiaomi Oficial","Dual SIM"
+4,Celular,Moto G84,Motorola,Preto,256GB,,1799,7,7891234560014,"Motorola","Tela OLED"
+5,Celular,Galaxy A55,Samsung,Azul,128GB,,2299,10,7891234560015,"Samsung Brasil","5G"
 6,Celular,Galaxy S23 Ultra,Samsung,Verde,512GB,,6499,2,7891234560016,Samsung Brasil,5G," tela 6.8""",
 7,Celular,iPhone 14,Apple,Preto,128GB,,4999,4,7891234560017,Apple Brasil,"A15, 5G",
 8,Celular,Redmi Note 12,Xiaomi,Preto,128GB,,1599,6,7891234560018,Xiaomi Oficial,Dual SIM,
